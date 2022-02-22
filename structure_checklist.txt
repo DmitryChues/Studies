@@ -1,0 +1,6 @@
+List of checks (with the required detail)
+Check status:
+	build that was tested
+	test environment (if applicable)
+	tester
+Result of checking
